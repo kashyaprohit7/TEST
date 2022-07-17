@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 checking map
+=======
+different code
+>>>>>>> mansi_version
